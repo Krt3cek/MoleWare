@@ -1,0 +1,59 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  kiero.cpp
+  cutlbuffer.cpp
+  utlhash.cpp
+  keyvalues.cpp
+  ISchemaClass.cpp
+  CCSPlayerController.cpp
+  C_CSPlayerPawn.cpp
+  C_CSWeaponBase.cpp
+  aim.cpp
+  chams.cpp
+  antiflash.cpp
+  fov.cpp
+  CGameEntitySystem.cpp
+  interfaces.cpp
+  debug.cpp
+C:\Users\Filip\source\repos\TempleWare\TempleWare-CS2\source\cs2\datatypes\keyvalues\keyvalues.cpp(16,46): warning C4267: argument: Převod z: size_t na: int, může dojít ke ztrátě dat.
+  config.cpp
+C:\Users\Filip\source\repos\TempleWare\TempleWare-CS2\source\templeware\config\config.cpp(44,39): warning C4305: argument: zkrácení z: double na: float
+C:\Users\Filip\source\repos\TempleWare\TempleWare-CS2\source\templeware\config\config.cpp(44,34): warning C4305: argument: zkrácení z: double na: float
+C:\Users\Filip\source\repos\TempleWare\TempleWare-CS2\source\templeware\config\config.cpp(44,29): warning C4305: argument: zkrácení z: double na: float
+  world.cpp
+  hooks.cpp
+  keybinds.cpp
+  hud.cpp
+  log.cpp
+  math.cpp
+  vector.cpp
+  viewmatrix.cpp
+  gaa.cpp
+  patternscan.cpp
+  module.cpp
+  playerHook.cpp
+  players.cpp
+  templeware.cpp
+  main.cpp
+  menu.cpp
+  visuals.cpp
+  schema.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244: inicializování: _Ty se převádí na _Ty1; může dojít ke ztrátě dat.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:             _Ty=unsigned long
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:             _Ty1=uint8_t
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4244:         ]
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  TempleWare-CS2.vcxproj -> C:\Users\Filip\Source\Repos\TempleWare\x64\Debug\TempleWare.dll

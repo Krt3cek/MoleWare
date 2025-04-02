@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Zprostředkující adresář (x64\Debug\) obsahuje soubory sdílené z jiného projektu (TempleWare-CS2.vcxproj). To může způsobit nesprávné chování při čištění a opětovném sestavení.
+  keybinds.cpp
+  menu.cpp
+C:\Users\Filip\source\repos\MoleWare\MoleWare\source\moleware\menu\menu.cpp(352,60): warning C4566: Znak, který reprezentuje universal-character-name \u00AF, nemůže být reprezentovaný v aktuální znakové stránce (1250).
+C:\Users\Filip\source\repos\MoleWare\MoleWare\source\moleware\menu\menu.cpp(352,60): warning C4566: Znak, který reprezentuje universal-character-name \u30C4, nemůže být reprezentovaný v aktuální znakové stránce (1250).
+  MoleWare.vcxproj -> C:\Users\Filip\source\repos\MoleWare\x64\Debug\MoleWare.dll
