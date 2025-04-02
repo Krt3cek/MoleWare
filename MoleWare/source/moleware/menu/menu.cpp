@@ -276,7 +276,7 @@ void Menu::render() {
 
                 if (Config::enemyChams) {
                     ImGui::ColorEdit4("Color##chams", (float*)&Config::colVisualChams);
-                    ImGui::Checkbox("XQZ Chams", &Config::enemyChamsInvisible);
+                    ImGui::Checkbox("XQZs Chams", &Config::enemyChamsInvisible);
                     if (Config::enemyChamsInvisible) {
                         ImGui::ColorEdit4("XQZ Color##chams", (float*)&Config::colVisualChamsIgnoreZ);
                     }
