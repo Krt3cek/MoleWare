@@ -84,7 +84,7 @@ void Menu::render() {
         ImGui::SetNextWindowSize(ImVec2(800, 500), ImGuiCond_Once);
         ImGui::SetNextWindowBgAlpha(0.9f); // Overall window transparency
 
-        ImGui::Begin("MoleWare | Internal PINDIK", nullptr, window_flags);
+        ImGui::Begin("MoleWare | Internal FILIPEK", nullptr, window_flags);
 
         // Header with gradient line
         {
